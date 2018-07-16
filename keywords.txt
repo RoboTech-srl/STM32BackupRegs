@@ -6,14 +6,14 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-STM32Backup		KEYWORD1
+STM32Backup	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
 
-setRegister		KEYWORD2
-getRegister		KEYWORD2
+setRegister	KEYWORD2
+getRegister	KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
